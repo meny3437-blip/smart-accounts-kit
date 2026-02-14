@@ -1,5 +1,5 @@
 # DeleGator SDK Monorepo
-
+npm i @metamask/7715-permission-types
 This monorepo consists of a suite of tools to enable developers to build using the MetaMask Smart Contract Accounts, and Delegation system.
 
 ### Project Structure
